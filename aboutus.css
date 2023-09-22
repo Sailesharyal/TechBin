@@ -46,3 +46,76 @@ nav ul li a {
 .photo{
     width: 600px;
 }
+
+.boydustbin{
+    width: 26%;
+    height: 400px;
+    position: absolute;
+    left: 915px;
+}
+
+.storage{
+    width: 26%;
+    height: 400px;
+    position: absolute;
+    left: 468px;
+}
+
+.GPS{
+    width: 26%;
+    height: 400px;
+    
+}
+.moreaboutme{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-size:40px;
+    position: absolute;
+    left:450px;
+    color: green;
+
+}
+
+.click1{
+    background-color:green;
+    height: 35px;
+    width: 20%;
+    text-decoration:none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    text-align:center; 
+    left:960px;
+}
+
+.click2{
+        background-color: green;
+        height: 35px;
+        width: 20%;
+        text-decoration:none;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:20px;
+        font-weight: bold;
+        color: black;
+        position: absolute;
+        left:480px;
+        text-align:center;
+        
+}
+
+.click3{
+    background-color: green;
+    height: 35px;
+    width: 20%;
+    text-decoration:none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    left:30px;
+    text-align:center;
+   
+}
