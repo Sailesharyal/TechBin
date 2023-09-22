@@ -1,0 +1,48 @@
+.Head{
+    background-color: aquamarine;
+    display: flex;
+}
+.Logo{
+    height: 125px;
+}
+
+ul{
+    padding-left: 0%;
+    display: flex;
+    list-style: none;
+    width: 55%;
+}
+
+nav ul li{
+    margin-left: 33%;
+    margin-top: 5%;
+   
+}
+
+
+nav ul li a {
+    color: black;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif; 
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.about{
+    display: flex;
+}
+
+.head{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: green;
+}
+.body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+.photo{
+    width: 600px;
+}
