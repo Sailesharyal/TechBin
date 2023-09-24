@@ -1,0 +1,76 @@
+.Head{
+    background-color: aquamarine;
+    display: flex;
+}
+.Logo{
+    height: 125px;
+}
+
+ul{
+    padding-left: 0%;
+    display: flex;
+    list-style: none;
+    width: 55%;
+}
+
+nav ul li{
+    margin-left: 33%;
+    margin-top: 5%;
+   
+}
+
+
+nav ul li a {
+    color: black;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif; 
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.about{
+    display: flex;
+}
+.column1{
+    display: flex;
+   
+    
+}
+
+.text{
+    font-size:40px;
+    font-weight: bolder;
+    margin-left: 400px;
+    color: green;
+}
+
+.aurduino{
+    height: 300px;
+}
+
+.text1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:35px;
+    font-weight: bold;
+    margin-left: 50px;  
+}
+
+.topic{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left:60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:500px ;
+    color: green;
+}
+.column2{
+    display: flex;
+}
+.text2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:35px;
+    font-weight: bold;
+    margin-left: 50px; 
+    
+}
+
